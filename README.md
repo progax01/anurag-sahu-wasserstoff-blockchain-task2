@@ -21,6 +21,13 @@ Design and implement a proxy smart contract that functions as a load balancer fo
 - Incorporate security measures to prevent unauthorized updates to the contract registry.
 - Optimize for gas efficiency and minimize execution costs for delegated functions.
 
+## Deployed Contract
+
+Registery Contract - https://sepolia.etherscan.io/address/0x5f12ec6570bb54daef0d63e68208f90cc03d98d1
+Staking Contract - https://sepolia.etherscan.io/address/0x82e4a162d720c20ebbe4a731bf1050ec08de5c96#code
+Voting Contract - https://sepolia.etherscan.io/address/0xe13f7ce68a050db0d0e7acb83bae1231152b04cc
+Token Contract - https://sepolia.etherscan.io/address/0x295eccf308d7c042040b6e6395375e88daff3a2d
+
 ## Functionality Implemented
 
 # Voting Contract
